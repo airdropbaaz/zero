@@ -4,7 +4,7 @@ node_modules
 example
 dist
 zero-builds
-*.log
+.log
 test/www/package.json
 test/www/yarn.lock
 test/www/.gitignore
