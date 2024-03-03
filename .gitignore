@@ -9,6 +9,6 @@ test/www/package.json
 test/www/yarn.lock
 test/www/.gitignore
 test/www/.babelrc
-test/www/hmr/*
+test/www/hmr/
 packages/handler-python/get-pip.py
 __pycache__
